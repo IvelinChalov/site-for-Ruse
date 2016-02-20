@@ -1,0 +1,79 @@
+*
+{
+margin:0px;
+padding:0px;
+}
+
+#conteiner
+{
+width: 100%;
+}
+
+#menu
+{
+padding-bottom:20px;
+padding-top:20px;
+background-image:url('menuback.png');
+
+}
+.red
+{
+display:inline;
+}
+
+.bez
+{
+font-size:22px;
+color:#ffffbe;
+text-decoration:none;
+margin-left:180px;
+background-image:url('btnback.png');
+background-repeat:repeat-x;
+}
+.bez:hover
+{
+background: #0d2029;
+}
+
+#faq
+{
+clear:left;
+padding-bottom:20px;
+padding-top:20px;
+background-color:#74C0CF;
+font-size:20px;
+}
+
+#submenu
+{
+background-color:#F1F7E2;
+float:left;
+padding-right:50px;
+padding-left:20px;
+padding-bottom:245px;
+padding-top:242px;
+
+}
+#tochki
+{
+list-style:none;
+}
+
+.golqm  span{
+	position:absolute;
+	visibility: hidden;
+	
+}
+
+.golqm:hover span{
+	visibility: visible;
+	top: 200px;
+	left: 880px;
+	
+}
+
+
+#main
+{
+background-color:#F1F7E2;
+}
